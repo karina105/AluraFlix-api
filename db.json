@@ -72,25 +72,5 @@
             "categoria": "Innovacion y Gestion",
             "descripcion": "Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa."
         }
-    ],
-    "categorias": [
-        {
-            "id": 1,
-            "categoriaNombre": "Front End",
-            "categoriaTexto": "Formación Front End Alura Latam",
-            "categoriaColor": "#6BD1FF"
-        },
-        {
-            "id": 2,
-            "categoriaNombre": "BackEnd",
-            "categoriaTexto": "Formación Back End de Alura Latam",
-            "categoriaColor": "#00C86F"
-        },
-        {
-            "id": 3,
-            "categoriaNombre": "Innovación y Gestión",
-            "categoriaTexto": "Formación Innovación y Gestión ",
-            "categoriaColor": "#FFBA05"
-        }
     ]
 }
