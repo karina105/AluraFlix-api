@@ -63,14 +63,6 @@
             "imagen": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
             "categoria": "Innovacion y Gestion",
             "descripcion": "¿Sabes cuáles son las 7 más buscadas por las empresas?"
-        },
-        {
-            "id": 10,
-            "titulo": "Metodologias Ágiles ",
-            "video": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
-            "imagen": "https://i.ytimg.com/vi/p4kpHAvQH9w/mqdefault.jpg",
-            "categoria": "Innovacion y Gestion",
-            "descripcion": "Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa."
         }
     ]
 }
